@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gundam Vishnu Vardhan Reddy</h1>
-<h3 align="center">Aspiring AI & Data Science Engineer | Python & Java Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring AI & Ml Engineer | Web Development | Python Developer | SQL | Gen ai | DSA </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=650&size=25&lines=Second+Year+CSE+Student;Python+%26+Java+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+🚀"/>
@@ -14,9 +14,9 @@
 # 👨‍💻 About Me
 
 - 🎓 B.Tech CSE at **SVREC, Nandyal** (2024–2028)
-- 💡 Passionate about AI, Data Science, Python, Java and Web Development.
-- 🌱 Learning Machine Learning, Deep Learning, SQL, FastAPI, PyTorch, Git and LLMs.
-- 👯 Open to AI, ML, Data Science & Open Source collaborations.
+- 💡 Passionate about AI & ML, Python,Gen ai , DSA, SQL and Web Development.
+- 🌱 Learning Machine Learning, Deep Learning, SQL, GEN ai, PyTorch, Git and LLMs.
+- 👯 Open to AI, ML, Open Source collaborations.
 - 💼 Seeking internships in AI/Data Science.
 - 📫 Email: **gvishnuvardhanreddy.01@gmail.com**
 - 🌐 Portfolio: https://vishnureddy33-os.github.io/portfolio-website/
@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode,linux,aws,pytorch,tensorflow"/>
 </p>
 
-**Libraries:** Flask • NumPy • Scikit-learn •  FastAPI
+**Libraries:** Flask • NumPy •  FastAPI
 
 ---
 
@@ -79,12 +79,12 @@
 
 # 🎯 2026 Goals
 
-- ⬜ Master Machine Learning
+- ⬜ Master GEN ai
 - ⬜ Learn Deep Learning
-- ⬜ Build 20+ AI Projects
-- ⬜ Learn MLOps
+- ⬜ Build 10+ AI Projects
+- ⬜ Learn RAG
 - ⬜ Contribute to Open Source
-- ⬜ Secure an AI/Data Science Internship
+- ⬜ Secure an AI/ml Internship
 
 ---
 
